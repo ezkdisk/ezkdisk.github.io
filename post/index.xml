@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ezkdisk Blog</title>
+    <link>http://ezkdisk.github.io/post/</link>
+    <description>Recent content in Posts on Ezkdisk Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 08 Sep 2021 22:43:35 -0700</lastBuildDate>
+    
+	<atom:link href="http://ezkdisk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>http://ezkdisk.github.io/post/second/</link>
+      <pubDate>Wed, 08 Sep 2021 22:43:35 -0700</pubDate>
+      
+      <guid>http://ezkdisk.github.io/post/second/</guid>
+      <description>自己紹介
+ezkdisk　22歳
+出身は熊本県です。趣味は自作PCです。</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://ezkdisk.github.io/post/first/</link>
+      <pubDate>Wed, 08 Sep 2021 22:42:10 -0700</pubDate>
+      
+      <guid>http://ezkdisk.github.io/post/first/</guid>
+      <description>こんにちは。ezkdiskです。
+はじめてのブログです。</description>
+    </item>
+    
+  </channel>
+</rss>
